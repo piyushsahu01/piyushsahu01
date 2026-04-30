@@ -1,8 +1,33 @@
 # 💫 About Me:
-# Hi, I'm Piyush 👋<br><br>Flutter and backend developer focused on real-time applications, authentication systems, and scalable APIs using Django REST Framework, Firebase, and PostgreSQL.<br><br>🚀 Tech Stack<br><br>- Flutter<br>- Django REST Framework<br>- Firebase<br>- PostgreSQL<br>- Python<br>- Java<br><br>📌 Featured Projects<br><br>- **Lafz** — Real-time calling and chat application with Firebase integration<br>- **Siksha Pragati** — Training management system with Flutter frontend and Django backend<br>- **IoT Predictive Maintenance Dashboard** — Real-time sensor monitoring and anomaly detection system<br>- **Python Voice Assistant** — Desktop voice assistant with speech recognition and automation features<br><br>🌱 Currently Exploring<br><br>- System Design<br>- Scalable backend architecture<br>- Cloud deployment and monitoring workflows<br><br>
+
+## Hi, I'm Piyush 👋
+
+Flutter and backend developer focused on real-time applications, authentication systems, and scalable APIs using Django REST Framework, Firebase, and PostgreSQL.
+
+### 🚀 Tech Stack
+
+- Flutter
+- Django REST Framework
+- Firebase
+- PostgreSQL
+- Python
+- Java
+
+### 📌 Featured Projects
+
+- **Lafz** — Real-time calling and chat app using Firebase
+- **Siksha Pragati** — Training management system with Flutter and Django
+- **IoT Predictive Maintenance Dashboard** — Real-time sensor monitoring and anomaly detection system
+- **Python Voice Assistant** — Desktop voice assistant with speech recognition
+
+### 🌱 Currently Exploring
+
+- System Design
+- Scalable backend architecture
+- Cloud deployment and monitoring workflows
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushsahu-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushra71@gmail.com) 
 
 # 💻 Tech Stack:
